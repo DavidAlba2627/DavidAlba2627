@@ -9,8 +9,6 @@
 
 
 
-<br>
-
 ## :sassy_man:  About me
 - :school: I am a Physical Engineering University of Guanajuato
 - :trophy: Recognition of academic excellence each year in University
@@ -20,7 +18,6 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
 
 
 <h3 align="center">Connect with me:</h3>
@@ -41,10 +38,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{DavidAlba2627}/count.svg" alt="DavidAlba2627 :: Visitor's Count" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlba2627&layout=compact&hide=jupyter%20notebook)](https://github.com/DavidAlba2627/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlba2627&layout=compact)](https://github.com/DavidAlba2627/github-readme-stats)
 
 
-<!---
-MiguelAngel-ht/MiguelAngel-ht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

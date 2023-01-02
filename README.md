@@ -10,9 +10,9 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a Physical Engineering University of Guanajuato
+- :school: I am a Physical Engineer
 - :trophy: Recognition of academic excellence each year in University
-- :student:  I studied in University of Guanajuato from 2018-2022
+- :student: I studied in University of Guanajuato from 2018-2022
 - :thinking: **Math, Python, Machine Learning and Data Science**
 - 👉 How to reach me **albadavid.physics@gmail.com**
 - :nerd_face: Always `learning new things`

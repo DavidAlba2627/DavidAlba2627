@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm David Angel </h1>
-<h3 align="center">Physical Engineer </h3>
+<h3 align="center">Physics Engineer </h3>
 
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Physical+Engineer;Academic+Recognition+2018-2022;Physics,+Math,+Programming,+Electronics,+Quantum+Computing...;Machine+Learning+and+Data+Science;albadavid.physics@gmail.com;Always+learning+new+things&center=true&width=800&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A3C&width=435&lines=The+five+boxing+wizards+jump+quickly&lines=Physics+Engineer;Academic+Recognition+2018-2022;Physics,+Math,+Programming,+Electronics,+Quantum+Computing...;Machine+Learning+and+Data+Science;albadavid.physics@gmail.com;Always+learning+new+things&center=true&width=800&height=50"></a>
 </p>
 
 
 
 ## :sassy_man:  About me
-- :school: I am a Physical Engineer
+- :school: I am a Physics Engineer
 - :trophy: Recognition of academic excellence each year in University
 - :student: I studied in University of Guanajuato from 2018-2022
 - :thinking: **Physics, Math, Python, Machine Learning, Data Science and Quantum Computing**

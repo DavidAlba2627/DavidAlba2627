@@ -14,7 +14,7 @@
 - :trophy: Recognition of academic excellence each year in University
 - :student: I studied in University of Guanajuato from 2018-2022
 - :thinking: **Physics, Math, Python, Machine Learning, Data Science and Quantum Computing**
-- 👉 How to reach me **albadavid.physics@gmail.com**
+- 👉 How to reach me **albadavid802@gmail.com**
 - :nerd_face: Always `learning new things`
 
 <br>

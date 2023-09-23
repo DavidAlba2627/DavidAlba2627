@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Angel </h1>
-<h3 align="center">Physics Engineer </h3>
+<h1 align="center" style="color: black;">Hi 👋, I'm David Angel </h1>
+<h3 align="center" style="color: black;">Physics Engineer </h3>
 
 
 

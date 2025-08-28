@@ -24,11 +24,6 @@
 
 
 
-
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{DavidAlba2627}/count.svg" alt="DavidAlba2627 :: Visitor's Count" /></p>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlba2627&layout=compact&hide=HTML)](https://github.com/DavidAlba2627/github-readme-stats)
 
 
